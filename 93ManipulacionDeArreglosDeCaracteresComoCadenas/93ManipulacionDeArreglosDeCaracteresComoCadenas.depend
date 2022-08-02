@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629916636 source:c:\users\paulm\desktop\programacioncodeblocks\93manipulaciondearreglosdecaracterescomocadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+

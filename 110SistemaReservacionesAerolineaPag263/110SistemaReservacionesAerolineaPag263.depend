@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631071927 source:c:\users\paulm\desktop\programacioncodeblocks\110sistemareservacionesaerolineapag263\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

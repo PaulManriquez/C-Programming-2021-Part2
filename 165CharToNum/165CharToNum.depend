@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633918759 source:c:\users\paulm\desktop\programacioncodeblocks\165chartonum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

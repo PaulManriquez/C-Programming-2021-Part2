@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634007051 source:c:\users\paulm\desktop\programacioncodeblocks\169convertirminuscula_mayusculaptr\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631061215 source:c:\users\paulm\desktop\programacioncodeblocks\109tiro36mildadosvectorpag263\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

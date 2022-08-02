@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633632054 source:c:\users\paulm\desktop\programacioncodeblocks\159numdevocalesonstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

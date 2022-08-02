@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1633976499 source:c:\users\paulm\desktop\programacioncodeblocks\166binariodecimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640647797 source:c:\users\paulm\desktop\programacioncodeblocks\217listasdeargumentosdelongitudvariable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

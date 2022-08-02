@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634775220 source:c:\users\paulm\desktop\programacioncodeblocks\180practicandostructs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634946239 source:c:\users\paulm\desktop\programacioncodeblocks\182structvideo\main.c
+	<stdio.h>
+	<stdlib.h>
+

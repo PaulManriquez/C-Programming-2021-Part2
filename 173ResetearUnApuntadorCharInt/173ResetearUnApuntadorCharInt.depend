@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634344416 source:c:\users\paulm\desktop\programacioncodeblocks\173resetearunapuntadorcharint\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

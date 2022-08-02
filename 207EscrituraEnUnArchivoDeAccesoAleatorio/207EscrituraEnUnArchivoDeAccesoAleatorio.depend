@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636413527 source:c:\users\paulm\desktop\programacioncodeblocks\207escrituraenunarchivodeaccesoaleatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+

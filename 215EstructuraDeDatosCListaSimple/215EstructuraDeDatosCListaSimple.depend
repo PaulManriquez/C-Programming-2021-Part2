@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638854751 source:c:\users\paulm\desktop\programacioncodeblocks\215estructuradedatosclistasimple\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

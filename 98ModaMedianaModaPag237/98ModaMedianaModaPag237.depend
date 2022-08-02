@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630104162 source:c:\users\paulm\desktop\programacioncodeblocks\98modamedianamodapag237\main.c
+	<stdio.h>
+
+1630103335 source:c:\users\paulm\desktop\programacioncodeblocks\98modamedianamodapag237\elprintf.c
+	<stdio.h>
+

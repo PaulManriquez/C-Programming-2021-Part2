@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633044143 source:c:\users\paulm\desktop\programacioncodeblocks\144decimaltobinaryrecursive\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633922080 source:c:\users\paulm\desktop\programacioncodeblocks\164numerochartointalmacenaenvector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

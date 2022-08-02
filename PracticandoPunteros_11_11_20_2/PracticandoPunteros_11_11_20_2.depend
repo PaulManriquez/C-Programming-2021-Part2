@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636665554 source:c:\users\paulm\desktop\programacioncodeblocks\practicandopunteros_11_11_20_2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631237109 source:c:\users\paulm\desktop\programacioncodeblocks\111graficodetortugapag264\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632370790 source:c:\users\paulm\desktop\programacioncodeblocks\124numerodevecesqueseencuentraelcaracterencadena\main.c
+	<stdio.h>
+	<stdlib.h>
+

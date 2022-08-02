@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633554039 source:c:\users\paulm\desktop\programacioncodeblocks\157practicandocharscadenas1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+

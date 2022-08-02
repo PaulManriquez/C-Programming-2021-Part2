@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630976574 source:c:\users\paulm\desktop\programacioncodeblocks\108ordenamientoburbujamejoradobooleanpag260\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

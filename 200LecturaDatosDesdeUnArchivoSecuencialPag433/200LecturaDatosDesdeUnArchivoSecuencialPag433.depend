@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635898262 source:c:\users\paulm\desktop\programacioncodeblocks\200lecturadatosdesdeunarchivosecuencialpag433\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635723026 source:c:\users\paulm\desktop\programacioncodeblocks\194punterosaarraysdeestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+

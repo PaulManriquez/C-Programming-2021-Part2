@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634706392 source:c:\users\paulm\desktop\programacioncodeblocks\179barajaryrepartircartas_pag399_10dot7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

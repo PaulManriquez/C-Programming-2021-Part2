@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640649901 source:c:\users\paulm\desktop\programacioncodeblocks\218terminaciondeunprogramamedianteexityatexit\main.c
+	<stdio.h>
+	<stdlib.h>
+

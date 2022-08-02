@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631925960 source:c:\users\paulm\desktop\programacioncodeblocks\114ordenamientorecursivoquicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+

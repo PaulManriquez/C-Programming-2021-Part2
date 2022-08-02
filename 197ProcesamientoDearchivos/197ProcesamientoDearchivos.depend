@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635835091 source:c:\users\paulm\desktop\programacioncodeblocks\197procesamientodearchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+

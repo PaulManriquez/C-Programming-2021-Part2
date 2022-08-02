@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634522719 source:c:\users\paulm\desktop\programacioncodeblocks\174punteroafuncionarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

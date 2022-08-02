@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636158811 source:c:\users\paulm\desktop\programacioncodeblocks\205buscarcampoenarchivomdeedad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

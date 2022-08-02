@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634800149 source:c:\users\paulm\desktop\programacioncodeblocks\181traductorespingles\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+

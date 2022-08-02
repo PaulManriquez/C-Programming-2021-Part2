@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638151645 source:c:\users\paulm\desktop\programacioncodeblocks\213pilas_estructurasdedatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

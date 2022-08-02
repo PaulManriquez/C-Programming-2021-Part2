@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635284139 source:c:\users\paulm\desktop\programacioncodeblocks\186desplazamientodebitspag409_10dot12\main.c
+	<stdio.h>
+	<stdlib.h>
+

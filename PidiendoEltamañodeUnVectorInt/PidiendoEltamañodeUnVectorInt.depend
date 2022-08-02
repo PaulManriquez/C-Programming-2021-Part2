@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634347612 source:c:\users\paulm\desktop\programacioncodeblocks\pidiendoeltamañodeunvectorint\main.c
+	<stdio.h>
+	<stdlib.h>
+
